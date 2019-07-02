@@ -1,8 +1,2 @@
-print('HELLO WORLD!')
-print('python is cool')
-print('I like data science ')
-
-
-
-# define variabel
-x = 10
+x = int(input('please enter a number: '))
+print(x)
